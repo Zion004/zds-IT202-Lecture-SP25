@@ -1,5 +1,5 @@
 <?php
-// Name, Course & Section, Course Name, Assignment, yourid@njit.edu
+// Zion D. Scott, IT202-004, Internet Applications, Unit 8 In-Class Exercise, zds@njit.edu
 require_once('database.php');
 class Contact
 {
